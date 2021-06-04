@@ -1,16 +1,8 @@
 li a{
-    /* text-decoration: none;
-    display: inline-block;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    color: #f2f2f2;
-    margin-left: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: larger; */
+  
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
     margin-left: 50px;
@@ -31,4 +23,13 @@ li a{
           background-color:grey;
           
       }
- 
+    .bg-image{
+       
+        background-image:url(images/b7.webp);
+        height: 500px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+
+   
